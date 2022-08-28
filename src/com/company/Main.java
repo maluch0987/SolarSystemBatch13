@@ -20,10 +20,18 @@ public class Main {
         omaro.color="pink";
 
 
+
 //        developing planet1
         Planet1 superplanet=new Planet1();
         superplanet.color="magenta";
         superplanet.name="hash";
         superplanet.size="545488km";
+
+        //    planet2
+        Planet2 superwomen = new Planet2();
+        superwomen.size="766585857km";
+        superwomen.name="pliea";
+        superwomen.color="green";
+
     }
     }
